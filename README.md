@@ -1,6 +1,6 @@
 # Machine-Learning-Deep-Learning-Projects
 
-I warmly welcome you at my Deep Learning / Machine Learning projects in Python. The present sessions focus mainly on applications of ML/DL along with some theory.
+I warmly welcome you to my Deep Learning / Machine Learning projects in Python. The present sessions focus mainly on applications of ML/DL along with some theory.
 
 We will mainly touch : 
 1. Nerual Networks (NN)
