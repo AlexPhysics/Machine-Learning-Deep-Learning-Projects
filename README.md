@@ -1,6 +1,6 @@
 # Machine-Learning-Deep-Learning-Projects
 
-Welcome to this introduction of Deep Learning / Machine Learning with Python. This lab sessions present my practical work along with some theory.
+I warmly welcome you at my Deep Learning / Machine Learning projects in Python. The present sessions focus mainly on applications of ML/DL along with some theory.
 
 We will mainly touch : 
 1. Nerual Networks (NN)
