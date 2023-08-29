@@ -11,4 +11,4 @@ We will mainly touch :
 6. Examples in Natural Language processing.
 
 Image credits: Credit: iStock.com/GarryKillian
-<img width="819" alt="ml" src="https://github.com/AlexPhysics/Machine-Learning-Deep-Learning-Projects/assets/81239843/ea7fdcb8-8d81-494b-9819-2f1453961fa1">
+<img width="819" alt="ml" src="https://github.com/AlexPhysics/Machine-Learning-Deep-Learning-Projects/assets/81239843/c254cbd7-a20e-4a78-bbd5-e71b9b937827">
