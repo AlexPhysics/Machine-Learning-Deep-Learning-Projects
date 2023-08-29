@@ -9,3 +9,6 @@ We will mainly touch :
 4. Detection of diseases in medical images.
 5. Recurrent Neural Networks.
 6. Examples in Natural Language processing.
+
+Image credits: Credit: iStock.com/GarryKillian
+<img width="819" alt="ml" src="https://github.com/AlexPhysics/Machine-Learning-Deep-Learning-Projects/assets/81239843/ea7fdcb8-8d81-494b-9819-2f1453961fa1">
